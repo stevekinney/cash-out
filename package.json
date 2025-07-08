@@ -122,7 +122,7 @@
     "husky": "^9.1.7",
     "lint-staged": "^16.0.0",
     "prettier": "^3.5.3",
-    "publint": "^0.2.7",
+    "publint": "^0.3.12",
     "size-limit": "^11.1.4",
     "sort-package-json": "^3.2.1",
     "source-map-explorer": "^2.5.3"
